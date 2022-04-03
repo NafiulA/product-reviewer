@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "gamertea",
+    "description": "The stylish body of it makes me look cool outdoor and productive with it's dual screen at the same time.",
+    "ratings": 4.5,
+    "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+  },
+  {
+    "id": "2",
+    "name": "gamerfig",
+    "description": "When you look at it, makes you appreciate it's innovation creativity which are at its peak for this product.",
+    "ratings": 4,
+    "img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+  },
+  {
+    "id": "3",
+    "name": "gamerpie",
+    "description": "High performing specs and awesome display makes you appreciate whatever game you're playing on it.",
+    "ratings": 4.5,
+    "img": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": "4",
+    "name": "noobsnow",
+    "description": "The responsiveness and with no throttling under pressure makes my life a lot easier being a pro gamer.",
+    "ratings": 5,
+    "img": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+  },
+  {
+    "id": "5",
+    "name": "cheetah",
+    "description": "Fast, consistent and strong performance. A great product delivered by team Asus. Keep it up.",
+    "ratings": 4.5,
+    "img": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+  },
+  {
+    "id": "6",
+    "name": "girlnix",
+    "description": "As creative content creator, this product helped me a lot to reach my peak and provide best content to my viewer.",
+    "ratings": 5,
+    "img": "https://images.unsplash.com/photo-1521227889351-bf6f5b2e4e37?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80"
+  }
+]
