@@ -4,7 +4,7 @@ import './ReviewCard.css'
 
 const ReviewCard = ({ review }) => {
     return (
-        <div className='my-6 p-6 border-2 rounded-xl shadow-xl'>
+        <div className='my-3 md:my-6 p-6 border-2 rounded-xl shadow-xl'>
             <div className='flex items-center'>
                 <img className='w-12 rounded-xl' src={review.img} alt="" />
                 <p className='ml-4 text-2xl font-medium'>{review.name}</p>
