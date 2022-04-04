@@ -1,0 +1,16 @@
+.heroSection {
+    background-color: #b8c6db;
+    background-image: linear-gradient(315deg, #b0bfd6 0%, #f5f7fa 74%);
+}
+
+.details-text {
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
+    background-clip: text;
+    color: transparent;
+}
+
+.viewBtn:hover {
+    background-color: #bdd4e7;
+    background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
+}
